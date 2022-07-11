@@ -1,6 +1,8 @@
 # How can Blockchain technology support patent management? A systematic literature review
 
-This project contains the data, code and results used in the paper: Denter, N., Seeger, F., & Moehrle, M. G. (2022). How can Blockchain technology support patent management? A systematic literature review. International Journal of Information Management, Article 102506. Advance online publication. https://doi.org/10.1016/j.ijinfomgt.2022.102506.
+This project contains the data, code and results used in the paper: 
+
+Denter, N., Seeger, F., & Moehrle, M. G. (2022). How can Blockchain technology support patent management? A systematic literature review. International Journal of Information Management, Article 102506. Advance online publication. https://doi.org/10.1016/j.ijinfomgt.2022.102506.
 
 https://www.researchgate.net/publication/359162263_How_can_Blockchain_technology_support_patent_management_A_systematic_literature_review
 
